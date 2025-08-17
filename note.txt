@@ -1,0 +1,4 @@
+cd your-project-folder
+git add .
+git commit -m "your commit message"
+git push -u origin main
